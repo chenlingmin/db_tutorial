@@ -1,3 +1,5 @@
 /cmake-build-debug
 /.idea
 /.idea/.gitignore
+db
+Gemfile.lock

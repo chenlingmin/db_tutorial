@@ -3,3 +3,4 @@
 /.idea/.gitignore
 db
 Gemfile.lock
+*.db
